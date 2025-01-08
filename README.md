@@ -24,3 +24,5 @@
 - [ShipObjectDetectionPart2](ShipObjectDetectionPart2.ipynb)
 
 ## 📖 2024 System Analysis and Design
+- [System Analysis and Design](SA.pdf)
+- [Figma](https://www.figma.com/proto/miorCy98D1TaFEjpCvLjm9/RTX-x-NOVA?node-id=1-2&p=f&t=ZbYi1N8aIosNNrfe-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
