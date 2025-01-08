@@ -27,3 +27,7 @@
 - [System Analysis and Design](SA.pdf)
 - [Figma](https://www.figma.com/design/miorCy98D1TaFEjpCvLjm9/RTX-x-NOVA?node-id=0-1&t=xTS26fF33cYA7hfF-1)
 - [Prototype Figma](https://www.figma.com/proto/miorCy98D1TaFEjpCvLjm9/RTX-x-NOVA?node-id=1-2&p=f&t=ZbYi1N8aIosNNrfe-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+## 📊 2024 Business Data Dimension and Report Management
+- [Top Restaurant Tableau](https://public.tableau.com/views/StoryboardFinal/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Top Billionaire Tableau](https://public.tableau.com/views/DashboardFinal_17290124377770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
