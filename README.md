@@ -36,7 +36,7 @@
 - [Top Billionaire Tableau](https://public.tableau.com/views/DashboardFinal_17290124377770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 👨🏻‍💼 2024 Project Management and Digital Startup
-- [Project Presentation](PM.pdf)
+- [Presentation slide](PM.pdf)
 
 ## 📜 Salesforce
 - [Salesforce](https://www.salesforce.com/trailblazer/eax9bvrkvx0qdmn6or)
